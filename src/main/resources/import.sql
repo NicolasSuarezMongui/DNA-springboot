@@ -1,0 +1,3 @@
+INSERT INTO personas(nombre, apellido, email, direccion, cromosoma) VALUES ('Pedro','Ortega', 'pedro.ortega@gmail.com','Calle 123', '00000101010101010101');
+INSERT INTO personas(nombre, apellido, email, direccion, cromosoma) VALUES ('Juan','Perez', 'juan.perez@gmail.com','Calle 456', '00101010101101110111');
+INSERT INTO personas(nombre, apellido, email, direccion, cromosoma) VALUES ('Diego','Gomez', 'diego.gomez@gmail.com','Calle 789', '00100010010000001001');
